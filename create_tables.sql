@@ -9,13 +9,12 @@ CREATE TABLE clientes (
     email VARCHAR(128) NOT NULL,
     PRIMARY KEY (cpf));
 
-CREATE TABLE telefone (
+CREATE TABLE telefones (
     cpf_cliente CHAR(11) NOT NULL,
-    telefone CHAR(13) NOT NULL,
+    telefone CHAR(15) NOT NULL,
     PRIMARY KEY (cpf_cliente, telefone),
     FOREIGN KEY (cpf_cliente) REFERENCES clientes (cpf)
     ON DELETE CASCADE);
-
 
 CREATE TABLE demanda_cliente (
 	cpf_cliente CHAR(11) NOT NULL,
@@ -24,13 +23,12 @@ CREATE TABLE demanda_cliente (
     FOREIGN KEY (cpf_cliente) REFERENCES clientes(cpf)
     ON DELETE CASCADE);
 
-
 CREATE TABLE consultores (
     cpf CHAR(11) NOT NULL,   	
     email VARCHAR(128) NOT NULL,
     entrada DATE NOT NULL,
     saida DATE,
-	telefone_empresarial CHAR(9),
+	telefone_empresarial CHAR(15),
     nome VARCHAR(128) NOT NULL,
     PRIMARY KEY (cpf));
 
@@ -45,7 +43,7 @@ CREATE TABLE endereco (
 
 CREATE TABLE propostas (
 	codigo INT NOT NULL,
-    cpf_cliente CHAR(9) NOT NULL,
+    cpf_cliente CHAR(11) NOT NULL,
 	data_proposta DATE NOT NULL,
     origem VARCHAR(255),
     valor FLOAT NOT NULL,
@@ -64,7 +62,7 @@ CREATE TABLE projetos (
     FOREIGN KEY (codigo_proposta) REFERENCES propostas(codigo));
 
 CREATE TABLE executam (
-	cpf_consultor VARCHAR(128) NOT NULL,
+	cpf_consultor CHAR(11) NOT NULL,
     sigla_projeto VARCHAR(32) NOT NULL,
     horas_trabalhadas INT NOT NULL,
     PRIMARY KEY (cpf_consultor, sigla_projeto),

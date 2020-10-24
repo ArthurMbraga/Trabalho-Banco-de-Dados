@@ -1,7 +1,7 @@
 USE consultoria
 
-INSERT INTO clientes VALUES ('013-22-0248','Ronan Becker','SfgGrLeFBxYLIpJUGALGEbjLWhGLtBTYazoOlHeWZuSmoYEnFa qPiDhDCKTWfFVtfw EbRIsoje RhCtvxW QmpmtBjOesaBHrCzpJWRXLIj XZXohzSlONdZQUgqun','Buckminster@inceptos.org');
 INSERT INTO clientes VALUES ('183-64-8977','Nehru Battle','BzBVbuVsIbnpJRubUdBlCAieYnfUdDTOCoZzZqqdTVpDrQyAIlLthoyrgFHaDJLFSqTJPTGkeK ASjAKhUVcodCkgOebSCdwFxLfRBJyFXaTFgF NJPvIoaHJtlUkjzy','Norman@adipiscing.org');
+INSERT INTO clientes VALUES ('013-22-0248','Ronan Becker','SfgGrLeFBxYLIpJUGALGEbjLWhGLtBTYazoOlHeWZuSmoYEnFa qPiDhDCKTWfFVtfw EbRIsoje RhCtvxW QmpmtBjOesaBHrCzpJWRXLIj XZXohzSlONdZQUgqun','Buckminster@inceptos.org');
 INSERT INTO clientes VALUES ('177-02-9915','Hanae Bennett','iPFBRvUF fYIARGPoZZkgVYhlbSk gL uwiRrZuuVaAMoPdCVuryXsCmfKTTipVoFZozKWtpTVmdnuLHwtAXqjUyzbuUKyvNVmxfvtEnoxtYYUuzNnfj i iJdscjazC','Joel@lorem.net');
 INSERT INTO clientes VALUES ('719-95-2158','Sade Buck','NmGrRtkSyNbkYqZEmSOQyIwHqNtC UHkPpUdBJfmWnmEsyEMagHvFIUxQAEMmezCYct PYulQrcgLWYohmeHcXKqrRSWAUQvbbWyopUshwTVvJqKTPbDeACMeIiqbfio','Clementine@pellentesque.org');
 INSERT INTO clientes VALUES ('165-41-2800','Price Brewer','TZbvACCVQXynC iXwimUAcSKvLrtfsWlAZxcPbK KCDHgifUPXdANjzZuoaEEHaKzrSIcjduiwTJdvYPJEBkzATjZAgUoOVzHKggjvklxzSnscrByYygMDAwoWmDZVWt','Sasha@Etiam.org');
