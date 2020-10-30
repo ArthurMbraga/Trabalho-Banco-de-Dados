@@ -13,7 +13,7 @@ int main (){
     std::map<int, std::string> map;
     std::stringstream ss;
     output_file.open("output_file.sql");
-    file.open("spawn_projetos.sql");
+    file.open("../Popular Banco/spawn_projetos.sql");
     file.unsetf(std::ios_base::skipws);
     int dado;
 
