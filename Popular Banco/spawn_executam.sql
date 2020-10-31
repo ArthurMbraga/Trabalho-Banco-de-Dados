@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO executam VALUES ('189-83-9877','UbaQSlqaTNYbEsVLHKtCbHeRqcK UG',7791);
 INSERT INTO executam VALUES ('031-54-6349','ADrqIBrrAlqUUrVUNczsirKkaxejDd',3177);

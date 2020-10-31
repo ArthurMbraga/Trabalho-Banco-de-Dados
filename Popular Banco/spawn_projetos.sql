@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO projetos VALUES ('MSAzjgjJnNHGhzynFAlIhYfoBRBGtU','268320',773084.66,'LRIct','2007-07-20','2015-08-10');
 INSERT INTO projetos VALUES ('FoBehiZZZzSKtRwl HehTRwLSAN nW','938895',36598.35,'GuOOy','2003-06-06','2012-06-10');

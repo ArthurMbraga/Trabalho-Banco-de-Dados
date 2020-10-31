@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO telefones VALUES ('404-73-2949','833-203-6498');
 INSERT INTO telefones VALUES ('022-40-0133','792-494-1355');

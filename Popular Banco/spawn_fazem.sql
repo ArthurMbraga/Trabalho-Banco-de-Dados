@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 
 INSERT INTO fazem VALUES ('781-05-8853','84442');

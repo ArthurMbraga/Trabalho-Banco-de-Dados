@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO demanda_cliente VALUES ('362-20-8478',421068);
 INSERT INTO demanda_cliente VALUES ('870-87-5905',39203);

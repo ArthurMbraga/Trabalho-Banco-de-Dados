@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO propostas VALUES (746526,'089-76-2456','4-7-20','hJOaZYvakFIRKcvzdAkKgOvPvOhyyCbftpmxlETxZNsAxPOWIfVQFiAhwdRQpMPEBM QCLreVWkLbSBNpByvIEqceAIyhaTTOlWHsIriVHzFRmcqwTfJzjme',52015425.29);
 INSERT INTO propostas VALUES (856323,'088-81-7232','27-5-11','YYjZDqkgUkQoiKXlOJBGpZurcGgEDdeQAvGiDuicuVwRcDGmeZUBgGcYPwpHmDyLAVHpKklBAGiiVIdOPgSYipqEkjYfQPjBxNSMddCTVtzf   oKCvMpJVZ',47839711.79);

@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO clientes VALUES ('183-64-8977','Nehru Battle','BzBVbuVsIbnpJRubUdBlCAieYnfUdDTOCoZzZqqdTVpDrQyAIlLthoyrgFHaDJLFSqTJPTGkeK ASjAKhUVcodCkgOebSCdwFxLfRBJyFXaTFgF NJPvIoaHJtlUkjzy','Norman@adipiscing.org');
 INSERT INTO clientes VALUES ('013-22-0248','Ronan Becker','SfgGrLeFBxYLIpJUGALGEbjLWhGLtBTYazoOlHeWZuSmoYEnFa qPiDhDCKTWfFVtfw EbRIsoje RhCtvxW QmpmtBjOesaBHrCzpJWRXLIj XZXohzSlONdZQUgqun','Buckminster@inceptos.org');

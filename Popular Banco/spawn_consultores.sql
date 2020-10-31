@@ -1,4 +1,4 @@
-USE consultoria
+USE consultoria;
 
 INSERT INTO consultores VALUES ('809-42-5808','Judith@at.us','1991-09-06','2014-09-10','360-895-2600','Damian Yates');
 INSERT INTO consultores VALUES ('918-97-3896','Yasir@luctus.gov','1998-11-17','2017-08-02','844-791-0215','Adara Banks');
