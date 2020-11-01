@@ -1,5 +1,6 @@
 USE consultoria
 
+DELETE FROM executam;
 INSERT INTO executam VALUES ('189-83-9877','UbaQSlqaTNYbEsVLHKtCbHeRqcK UG',7791);
 INSERT INTO executam VALUES ('031-54-6349','ADrqIBrrAlqUUrVUNczsirKkaxejDd',3177);
 INSERT INTO executam VALUES ('409-30-6771','fyPsOTAezTnOyDfiBbmWVUltNlAqvm',5581);
