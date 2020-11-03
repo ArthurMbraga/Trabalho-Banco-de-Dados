@@ -55,7 +55,7 @@ CREATE TABLE projetos (
 	sigla VARCHAR(32) NOT NULL,
 	codigo_proposta INT NOT NULL,
     custo FLOAT NOT NULL,
-    nps CHAR(5) NOT NULL,
+    nps int NOT NULL,
     inicio DATE NOT NULL,
     termino DATE,
     PRIMARY KEY (sigla),
